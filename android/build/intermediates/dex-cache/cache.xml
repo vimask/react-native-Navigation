@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kimmaisa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-56bd4091e33da90984240f8f1444d2fa1f0d8509.jar" />
+    </item>
+    <item
+        jar="/Users/kimmaisa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-b28cb695faa54d50898fb998bbf400e7e389a99a.jar" />
+    </item>
+    <item
+        jar="/Users/kimmaisa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-bc9a7fa1b25cc2864342aa60fe06a1963f080638.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/classes-020ce46fb7039f05cbf1428329305b6f83ca7a28.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-2ca69b51bddd73c42035bc4626572026f4039091.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/classes-d111af7341bac9bade97504dc9a07a66d41e9173.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/classes-70291e7fdd7ed69b0b5f0f149f90e67880a7be97.jar" />
+    </item>
+    <item
+        jar="/Users/kimmaisa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-f68cc200f559f6de50615c512611a2e774fb0dbc.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/classes-ff0e1b97c37da92e78a7e23c4ef85ff2e498c221.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.26.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed1c5bed21041f36b3eabf8afddca80e5d1c49b0">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/classes-1da7a2fb7f3c73453185251793c5785c09fd497b.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-f1da979b4c9b3c45caf04d7e81de8b19bc9ca0d7.jar" />
+    </item>
+    <item
+        jar="/Users/kimmaisa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-528855319e64cbae30001a4b1f78c28675856c2d.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/classes-4b9b2ea41aeda0d7e3d2436b684475adff98f688.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/classes-ce18494508513c93181a40b133ddbabe13b245cd.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/classes-1b5d98cec8dec45ac04c7dc08e50582e1d704ee6.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.26.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="79f21e7305d968c2c492a1987ea3ced5ff65fdeb">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-8a3c8e6ed7ee8d5e4cff5554a8d3be205db8b358.jar" />
+    </item>
+    <item
+        jar="/Users/kimmaisa/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-664a9deb5aae4e5c5a1df940a3745f5da2ef7c8b.jar" />
+    </item>
+    <item
+        jar="/Users/kimmaisa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-f5859fb099ea133887083f1b6082eb3b4d6c2663.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Volumes/DATA/ReactNative/ReactNativeNavigationExample/android/app/build/intermediates/pre-dexed/debug/classes-e8eecfa7cd04a4368cbeceef6ea52a6f5a144a94.jar" />
+    </item>
+
+</items>
